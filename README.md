@@ -1,5 +1,7 @@
+# Rock-Paper-Scissors game
 Implement Rock-Paper-Scissors game using Python and Tkinter
 
+# Features
 - Created a graphical user interface (GUI) for a Rock-Paper-Scissors game.
 - Implemented game logic to handle user and computer choices.
 - Added functionality to keep track of scores.
@@ -8,7 +10,7 @@ Implement Rock-Paper-Scissors game using Python and Tkinter
 - Customized the appearance of labels and buttons in the Tkinter window.
 
 
-Dependencies:
+# Dependencies:
 - Python
 - Tkinter
 - PIL (Pillow) for image handling
